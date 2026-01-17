@@ -75,7 +75,7 @@ Testovi su organizirani kroz Page Object Model kako bi se postigla visoka razina
 #### Pokretanje projekta
 1.  **Klonirajte repozitorij:**
     ```bash
-    git clone [https://github.com/eivelic/mttps-hervis-test.git](https://github.com/eivelic/mttps-hervis-test.git)
+    git clone https://github.com/eivelic/mttps-hervis-test.git
     ```
 2.  **Pozicionirajte se u mapu projekta:**
     ```bash
