@@ -61,7 +61,6 @@ Testovi su organizirani kroz Page Object Model kako bi se postigla visoka razina
 ### Rezultati testiranja
 
 ![Test Results](results.png)  
-*(Ovdje priložite screenshot uspješno izvršenih testova)*
 
 ---
 
